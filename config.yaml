@@ -1,0 +1,7 @@
+width: 50
+height: 25
+
+cellsPerRun: 20
+cellsLifetime: 5
+cellsTimeHungry: 2
+cellsDistance: 2
